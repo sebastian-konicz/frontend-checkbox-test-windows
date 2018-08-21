@@ -31,7 +31,6 @@ class Checkbox extends React.Component {
                         <input type="checkbox"
                            onChange={this.handleChange}/>
                         <div className="slider round"></div>
-                        <div className="slider"></div>
                     </label>
                 </div>
                 <div className={`hiddenContent ${isVisible}`}>
