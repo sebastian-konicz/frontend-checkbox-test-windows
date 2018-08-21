@@ -96,5 +96,17 @@
     "css-loader": "^0.28.7",
     "sass-loader": "^7.0.3",
     "style-loader": "^0.19.1"
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastian-konicz/frontend-checkbox-test-windows.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebastian-konicz/frontend-checkbox-test-windows/issues"
+  },
+  "homepage": "https://github.com/sebastian-konicz/frontend-checkbox-test-windows#readme"
 }
